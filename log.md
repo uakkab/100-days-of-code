@@ -6,5 +6,4 @@
 
 **Thoughts:** The idea is to built the front end in the ReactJS and backend in Ruby on Rails.
 
-**Link to work:** [Calculator App](http://www.example.com)
 
